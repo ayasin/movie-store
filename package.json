@@ -1,0 +1,24 @@
+{
+  "name": "movie-store",
+  "version": "1.0.0",
+  "description": "Movie store backend for React training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayasin/movie-store.git"
+  },
+  "author": "ayasin@datatensor.com",
+  "license": "ISC",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/ayasin/movie-store/issues"
+  },
+  "homepage": "https://github.com/ayasin/movie-store#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
