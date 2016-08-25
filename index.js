@@ -10,6 +10,6 @@ app..use(bodyParser.json());
 memberRoutes(app, '/api/member', dataStore);
 //movieRoutes(app, dataStore);
 
-app.listen(3000, () => {
-  console.log('Movie store listening on 3000');
+app.listen(3300, () => {
+  console.log('Movie store listening on 3300');
 });
