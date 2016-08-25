@@ -32,6 +32,8 @@ module.exports = {
       image: 'http://203.144.224.125/dvdcover/Gang47/830341_f.jpg',
       mpaaRating: 'R',
       userRating: 5,
+      total: 10,
+      inStock: 10,
       reviews: [
         {
           member: 'Amir',
@@ -46,6 +48,8 @@ module.exports = {
       image: 'http://gobooksparks.com/wp-content/uploads/2013/05/The-Notebook-Cover.jpg',
       mpaaRating: 'R',
       userRating: 1,
+      total: 10,
+      inStock: 10,
       reviews: []
     },
   ],
