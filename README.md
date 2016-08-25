@@ -1,1 +1,1 @@
-Movie store backend for react training.
+The worlds worst movie store backend, but great for react training.
